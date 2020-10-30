@@ -1,0 +1,26 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^4.0.0",
+    "mariadb": "^2.4.2",
+    "moment": "^2.27.0",
+    "node-sass": "^4.14.1",
+    "sequelize": "^6.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
